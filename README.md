@@ -1,2 +1,2 @@
-# Curso-em-Video
-Projetos feitos dos cursos do site Curso em Vídeo com o professor @gustavo-guanabara.
+# Projetos do Curso em Vídeo
+Projetos feitos do site Curso em Vídeo ministrado pelo professor @gustavoguanabara.
