@@ -1,0 +1,17 @@
+body {
+    background-color: rgba(251, 255, 0, 0.404);
+}
+
+p {
+    font-size: 20px;
+    color: rgb(199, 202, 0);
+}
+
+h1 {
+    color: rgb(189, 189, 9);
+}
+
+a {
+    font-size: 20px;
+    text-decoration: none;
+}

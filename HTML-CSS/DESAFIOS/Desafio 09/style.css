@@ -1,0 +1,20 @@
+body {
+    background-color: rgba(0, 0, 0, 0.808);
+}
+
+h1 {
+    color: whitesmoke;
+    text-align: center;
+    font-size: 40px;
+}
+
+div {
+    text-align: center;
+    margin: 20px;
+}
+
+.texto-link {
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 20px;
+}
